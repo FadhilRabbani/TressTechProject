@@ -1,0 +1,9 @@
+[submodule "MD"]
+    path = MD
+    url = https://github.com/FadhilRabbani/TressTech.git
+[submodule "ML"]
+    path = ML
+    url = https://github.com/baguskencana/dataset.git
+[submodule "CC"]
+    path = CC
+    url = https://github.com/chisiliaamanda/project_hairstyle.git
